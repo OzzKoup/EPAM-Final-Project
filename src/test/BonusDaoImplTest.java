@@ -40,7 +40,7 @@ public class BonusDaoImplTest {
         bonus.setName("name");
 
         Bonus bonusSecond = new Bonus();
-        bonusSecond.setName("test");
+        bonusSecond.setName("src/main/test");
         bonusSecond.setId(1);
         when(bonusDao.getById(1)).thenReturn(bonus);
         assertFalse(bonusDao.getById(1).equals(bonusSecond));
