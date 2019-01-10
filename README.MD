@@ -9,6 +9,7 @@
     1) Скачайте проект : git clone https://github.com/OzzKoup/finalProject.git
     
 #Для Запуска :
+
     1) Запустите файлы : src/main/resources/schema.sql и data.sql
     2) Зайти в корневую папку Tomcat /bin
     3) Запустить startup.bin
