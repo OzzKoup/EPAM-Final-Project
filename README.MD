@@ -14,4 +14,5 @@
     1) Запустите файлы : src/main/resources/schema.sql и data.sql
     2) Зайти в корневую папку Tomcat /bin
     3) Запустить startup.bin
-    4) Перейти по стандартному адресу localhost:8080/
+    4) Соберите проект сборщиком типа Maven
+    4) Перейти по стандартному адресу localhost:8080/CruiseCompany
